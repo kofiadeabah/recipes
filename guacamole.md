@@ -1,7 +1,7 @@
 
-Ingredients
-banku
-pepper
- 
-Instructions
+#Ingredients
+-banku
+-pepper
+-salt 
+#Instructions
 
