@@ -1,3 +1,7 @@
-Ingredients 
+
+Ingredients
+banku
+pepper
+ 
 Instructions
 
